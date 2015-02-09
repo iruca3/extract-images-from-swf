@@ -1,3 +1,7 @@
+# 準備
+
+JPEXS Free Flash Decompiler をダウンロードしてください。
+
 # 使い方
 
 1. extract.rb の **PATH_TO_FFDEC_JAR** を設定します。
